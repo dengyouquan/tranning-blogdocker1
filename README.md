@@ -16,5 +16,4 @@ sh build.sh
 sh run.sh
 ```
 ## 访问localhost:1313
-如果本地用Docker Machine，访问Docker Machine的IP.
-或者在Oracle VM VirtualBox中配置IP端口转发，打开localhost:1313即可查看到网站
+如果本地用Docker Machine，在Oracle VM VirtualBox中配置IP端口转发成本地IP，打开localhost:1313即可查看到网站
